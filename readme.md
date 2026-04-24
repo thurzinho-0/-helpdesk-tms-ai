@@ -194,7 +194,7 @@ helpdesk-tms-ia/
 ## Autor
 
 **Arthur Marques**
-[LinkedIn](https://linkedin.com/in/seu-usuario) · [GitHub](https://github.com/arthurmarques)
+[LinkedIn](www.linkedin.com/in/arthur-marques-2bb47322a) · [GitHub](https://github.com/arthurmarques)
 
 ## Licença
 
