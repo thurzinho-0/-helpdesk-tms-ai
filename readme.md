@@ -1,5 +1,7 @@
 # HelpDesk TMS com IA
 
+<img width="886" height="477" alt="image" src="https://github.com/user-attachments/assets/84a26187-8212-42f9-8293-c623348c402c" />
+
 Sistema de gerenciamento de chamados com **triagem automática via LLM**. Recebe um ticket em linguagem natural e retorna categoria, prioridade, SLA sugerido, impacto operacional e primeira ação recomendada — pronto para o time de suporte agir.
 
 **Stack:** Laravel 11 · SQLite · OpenAI API · HTML/CSS/JS
